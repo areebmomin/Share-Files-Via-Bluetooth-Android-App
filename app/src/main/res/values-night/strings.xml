@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_button">Search</string>
+    <string name="searching">Searching...</string>
+    <string name="finished">Finished</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="address">Address:</string>
+    <string name="alias">Alias:</string>
+    <string name="bluetooth_class">Bluetooth Class:</string>
+    <string name="bond_state">Bond State:</string>
+    <string name="name">Name:</string>
+    <string name="type">Type:</string>
+    <string name="uuids">UUIDS:</string>
+    <string name="audio_video">AUDIO_VIDEO</string>
+    <string name="computer">COMPUTER</string>
+    <string name="health">HEALTH</string>
+    <string name="imaging">IMAGING</string>
+    <string name="misc">MISC</string>
+    <string name="networking">NETWORKING</string>
+    <string name="peripherals">PERIPHERAL</string>
+    <string name="phone">PHONE</string>
+    <string name="toy">TOY</string>
+    <string name="wearable">WEARABLE</string>
+    <string name="uncategorized">UNCATEGORIZED</string>
+    <string name="bond_none">BOND_NONE</string>
+    <string name="bond_bonding">BOND_BONDING</string>
+    <string name="bond_bonded">BOND_BONDED</string>
+    <string name="device_type_classic">DEVICE_TYPE_CLASSIC</string>
+    <string name="device_type_le">DEVICE_TYPE_LE</string>
+    <string name="device_type_dual">DEVICE_TYPE_DUAL</string>
+    <string name="device_type_unknown">DEVICE_TYPE_UNKNOWN</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/connectDevicesOption"
+        android:title="@string/paired_devices"
+        android:icon="@drawable/ic_paired_devices"
+        app:showAsAction="ifRoom"
+        app:iconTint="@color/white"
+        android:iconTint="@color/white"
+        />
+</menu>
